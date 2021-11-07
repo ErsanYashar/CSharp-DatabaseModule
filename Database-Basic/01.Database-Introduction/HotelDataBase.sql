@@ -31,6 +31,7 @@ VALUES ('Stanimira', 'Kupanov', 0897456710, 112),
 CREATE TABLE [RoomStatus]
 (
 	[Id] INT PRIMARY KEY IDENTITY(1, 1),
+	[RoomStatus] NVARCHAR(40) NOT NULL,
 	[Notes] NVARCHAR(120)
 );
 
