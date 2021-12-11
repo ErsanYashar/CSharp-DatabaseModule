@@ -8,11 +8,11 @@ Database Basics with MS SQL Server course pays serious attention to the relation
 
 #### Acquired Skills :  
 - Fundamental knowledge of databases
-Creating basic Back-End architectures
-Database Relation Management
-Transaction Management
-Using the ACID model
-Using procedures and functions
+- Creating basic Back-End architectures
+- Database Relation Management
+- Transaction Management
+- Using the ACID model
+- Using procedures and functions
 
 
 
